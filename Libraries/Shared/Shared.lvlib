@@ -4,4 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Direction--enum.ctl" Type="VI" URL="../Direction--enum.ctl"/>
+	<Item Name="Node Type--enum.ctl" Type="VI" URL="../Node Type--enum.ctl"/>
+	<Item Name="Pen Operation--enum.ctl" Type="VI" URL="../Pen Operation--enum.ctl"/>
+	<Item Name="Selection--array.ctl" Type="VI" URL="../Selection--array.ctl"/>
+	<Item Name="Selection--picture ring.ctl" Type="VI" URL="../Selection--picture ring.ctl"/>
+	<Item Name="Solution Node--cluster.ctl" Type="VI" URL="../Solution Node--cluster.ctl"/>
+	<Item Name="Solution--picture ring.ctl" Type="VI" URL="../Solution--picture ring.ctl"/>
 </Library>
