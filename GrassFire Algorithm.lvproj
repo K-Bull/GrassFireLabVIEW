@@ -23,7 +23,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Class in Maps" Type="Folder">
 			<Item Name="Address.lvclass" Type="LVClass" URL="../Libraries/Address/Address.lvclass"/>
-			<Item Name="Node Value.lvclass" Type="LVClass" URL="../Libraries/Node/Node Value.lvclass"/>
+			<Item Name="Node.lvclass" Type="LVClass" URL="../Libraries/Node/Node.lvclass"/>
 			<Item Name="Grassfire.lvclass" Type="LVClass" URL="../Libraries/Grassfire/Grassfire.lvclass"/>
 		</Item>
 		<Item Name="Maps" Type="Folder">
